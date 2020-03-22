@@ -16,6 +16,7 @@
 * Huawei App Gallery depends Huawei Mobile Services similar to (Google GMS).
 * As of this writing (12-04-2019) Huawei AppGallery doesn't support .aab only .apk / .rpk files.
 * Huawei AppConnectServices and GooglePlayServices can co-exist for as long as both of their dependecies are installed on the Android device.
+## [appgallery](https://apkapp.gallery/)
 
 ## Early Solutions
 * Separate integration of GooglePlayServices and Huawei Mobile Services by Build Flavors
